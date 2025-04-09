@@ -240,7 +240,7 @@
         .advantage-item {
             display: flex;
             align-items: flex-start;
-            margin-bottom: 10px;
+            margin-bottom: 5px;
         }
         
         .advantage-icon {
