@@ -491,7 +491,7 @@
         <div class="container book-content">
             <h2 class="section-title">🎯 Book a Session or Ask a Question</h2>
             <p>Ready to see what AI can do for you?</p>
-            <p>👉 <a href="#" class="cta-button">Book a Session</a></p>
+            <p>👉 <a href="https://calendly.com/event_types/user/me" class="cta-button">Book a Session</a></p>
             <p style="margin-top: 20px;">Or email me directly at <a href="mailto:aivikingpower@gmail.com" style="color: var(--viking-gold);">aivikingpower@gmail.com</a></p>
             <p style="margin-top: 20px; font-size: 1.3rem; font-weight: 600;">Let's make AI make sense.</p>
         </div>
