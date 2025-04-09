@@ -341,7 +341,7 @@
         
         @media (max-width: 768px) {
             .hero h1 {
-                font-size: 1.5rem;
+                font-size: 1rem;
             }
             
             .hero p {
@@ -378,13 +378,13 @@
             <h1>Viking Power – Helping Business Owners Master AI Without the Hype</h1>
             <p>I'm Marcus Erickson — a product strategist, software leader, and AI educator with 30+ years of experience. Through AI Viking Power, I help business owners and teams harness the power of AI to save time, sharpen communication, and grow smarter — not harder.</p>
             <p>Whether you're just curious about tools like ChatGPT or ready to integrate AI into your daily operations, I'm here to make it simple and useful.</p>
-            <a href="#book" class="cta-button">Book a Session</a>
+            <a href="https://calendly.com/event_types/user/me" class="cta-button">Book a Session</a>
         </div>
     </section>
     
     <section class="services">
         <div class="container">
-            <h2 class="section-title">⚙️ What I Offer</h2>
+            <h2 class="section-title">What I Offer</h2>
             <div class="service-cards">
                 <div class="service-card">
                     <div class="service-card-header">
@@ -394,7 +394,7 @@
                     <div class="service-card-body">
                         <p>Get clear, immediate ideas for how AI can save you time. We'll walk through your business together and I'll give you 3–5 ways to start using AI right away.</p>
                         <p>You'll leave with a custom prompt set tailored to your work.</p>
-                        <a href="#book" class="cta-button">Book Now</a>
+                        <a href="https://calendly.com/event_types/user/me" class="cta-button">Book Now</a>
                     </div>
                 </div>
                 
@@ -406,7 +406,7 @@
                     <div class="service-card-body">
                         <p>90-minute training for your team. We'll explore real use cases and get hands-on with AI tools like ChatGPT, Claude, or Copilot.</p>
                         <p>Everyone walks away with confidence and ready-to-use prompts.</p>
-                        <a href="#book" class="cta-button">Book Now</a>
+                        <a href="https://calendly.com/event_types/user/me" class="cta-button">Book Now</a>
                     </div>
                 </div>
                 
@@ -417,7 +417,7 @@
                     </div>
                     <div class="service-card-body">
                         <p>Monthly coaching and tool setup support. I'll help build a prompt library for your team, streamline your workflows, and guide you as you scale up your use of AI.</p>
-                        <a href="#book" class="cta-button">Book Now</a>
+                        <a href="https://calendly.com/event_types/user/me" class="cta-button">Book Now</a>
                     </div>
                 </div>
             </div>
@@ -507,7 +507,7 @@
             <div class="contact-info">
                 <div class="contact-item">
                     <span class="contact-icon">📧</span>
-                    <a href="mailto:aivikingpower@gmail.com" style="color: var(--viking-gold); text-decoration: none;">marcuse@alumni.rice.edu</a>
+                    <a href="mailto:aivikingpower@gmail.com" style="color: var(--viking-gold); text-decoration: none;">aivikingpower@gmail.com</a>
                 </div>
                 
                 <div class="contact-item">
