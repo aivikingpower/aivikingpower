@@ -442,6 +442,12 @@
                     <h3><span class="check-icon">✅</span> Nonprofit Support</h3>
                     <p>Guided a nonprofit in using ChatGPT to draft grant applications and reports.</p>
                 </div>
+
+                <div class="result-item">
+                    <h3><span class="check-icon">✅</span> Web Pages</h3>
+                    <p>Created this entire web page using Anthropic Claude.</p>
+                </div>
+                
             </div>
         </div>
     </section>
