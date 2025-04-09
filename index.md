@@ -341,7 +341,7 @@
         
         @media (max-width: 768px) {
             .hero h1 {
-                font-size: 2.2rem;
+                font-size: 1.5rem;
             }
             
             .hero p {
@@ -349,7 +349,7 @@
             }
             
             .section-title {
-                font-size: 1.8rem;
+                font-size: 1.3rem;
             }
             
             .service-cards,
