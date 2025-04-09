@@ -90,13 +90,13 @@
         }
         
         .hero h1 {
-            font-size: 2.8rem;
+            font-size: 1.4rem;
             margin-bottom: 20px;
             font-weight: 700;
         }
         
         .hero p {
-            font-size: 1.2rem;
+            font-size: 1.0rem;
             margin-bottom: 30px;
             max-width: 700px;
             margin-left: auto;
@@ -234,13 +234,13 @@
         .advantage-list {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 20px;
+            gap: 10px;
         }
         
         .advantage-item {
             display: flex;
             align-items: flex-start;
-            margin-bottom: 15px;
+            margin-bottom: 10px;
         }
         
         .advantage-icon {
