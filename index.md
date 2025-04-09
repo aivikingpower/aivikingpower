@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI Viking Power | Marcus Erickson</title>
+    <title>AI Viking Power</title>
     <style>
         :root {
             --viking-blue: #1a3c5e;
