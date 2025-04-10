@@ -388,12 +388,23 @@
             <div class="service-cards">
                 <div class="service-card">
                     <div class="service-card-header">
-                        <h3>AI Jumpstart Session</h3>
+                        <h3>AI Jumpstart Session for Business Owners</h3>
                         <div class="service-price">1-on-1 Zoom – $150</div>
                     </div>
                     <div class="service-card-body">
                         <p>Get clear, immediate ideas for how AI can save you time. We'll walk through your business together and I'll give you 3–5 ways to start using AI right away.</p>
                         <p>You'll leave with a custom prompt set tailored to your work.</p>
+                        <a href="https://calendly.com/event_types/user/me" class="cta-button">Book Now</a>
+                    </div>
+                </div>
+
+                <div class="service-card">
+                    <div class="service-card-header">
+                        <h3>Introduction to AI</h3>
+                        <div class="service-price">Introductory Group Session – $25</div>
+                    </div>
+                    <div class="service-card-body">
+                        <p>Mondays are about introducing you to AI for the first time. Curious about AI but not sure where to start? Join me, for a live, friendly Zoom session built for beginners and business owners who want a quick, practical intro to the world of AI.</p>
                         <a href="https://calendly.com/event_types/user/me" class="cta-button">Book Now</a>
                     </div>
                 </div>
@@ -417,17 +428,6 @@
                     </div>
                     <div class="service-card-body">
                         <p>Monthly coaching and tool setup support. I'll help build a prompt library for your team, streamline your workflows, and guide you as you scale up your use of AI.</p>
-                        <a href="https://calendly.com/event_types/user/me" class="cta-button">Book Now</a>
-                    </div>
-                </div>
-
-                <div class="service-card">
-                    <div class="service-card-header">
-                        <h3>Introduction to AI</h3>
-                        <div class="service-price">Introductory Group Session – $25</div>
-                    </div>
-                    <div class="service-card-body">
-                        <p>Mondays are about introducing you to AI for the first time. Curious about AI but not sure where to start? Join me, for a live, friendly Zoom session built for beginners and business owners who want a quick, practical intro to the world of AI.</p>
                         <a href="https://calendly.com/event_types/user/me" class="cta-button">Book Now</a>
                     </div>
                 </div>
