@@ -401,7 +401,7 @@
                 <div class="service-card">
                     <div class="service-card-header">
                         <h3>Team AI Workshop</h3>
-                        <div class="service-price">Live Zoom Training – $500–$750</div>
+                        <div class="service-price">Live Zoom Training – $500</div>
                     </div>
                     <div class="service-card-body">
                         <p>90-minute training for your team. We'll explore real use cases and get hands-on with AI tools like ChatGPT, Claude, or Copilot.</p>
